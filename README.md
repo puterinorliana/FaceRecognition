@@ -1,4 +1,4 @@
-# FaceRecognition
+# FaceRecognition using OpenCV
 This is for Project for Introduction of Artificial Intelligence.
 Platform: Jupyter Notebook (Launch using Anaconda Navigator) 
 Programming Language: Python
